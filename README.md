@@ -1,0 +1,3 @@
+# Photoshop Elements
+
+Utility scaffolding.
